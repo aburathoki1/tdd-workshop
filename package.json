@@ -1,0 +1,17 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "coding workshop",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
